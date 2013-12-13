@@ -1,0 +1,7 @@
+vim NDproofs.java
+javac NDproofs.java
+echo '
+<<PROGRAM START>>'
+java NDproofs
+echo '
+<<PROGRAM TERMINATED>>'
